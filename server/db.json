@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "asa",
+      "name": "Suresh Kumar ",
+      "company": "Youtube",
+      "email": "sureshj09@gmail.com",
+      "title": "Youtuber",
+      "mobile": "9874569889",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzs9iEJ8THXTCTgaRNulgotGQJHlx6LdRM2A-UfqUJ&s",
+      "groupId": "3"
+    },
+    {
+      "id": "a2e20011-850d-43c1-81d1-29316faf2898",
+      "name": "Devashish K",
+      "company": "Friend",
+      "email": "devasishku@gmail.com",
+      "title": "freelancer",
+      "mobile": "9874569880",
+      "photo": "https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "620d66ff-020c-4232-8b18-0e22a992b272",
+      "name": "Sreeharsh K",
+      "company": "Service",
+      "email": "sreeharshk@gmail.com",
+      "title": "Mechanic",
+      "mobile": "9874569889",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhBdMYS8e1YxNDJbvT7_biPX4mJlZBN8LhMUzXkoW-g&s",
+      "groupId": "4"
+    },
+    {
+      "id": "c7a9add8-1349-4be6-878e-55d79594a651",
+      "name": "Rajan K M",
+      "company": "Newton",
+      "email": "rajanjnv@gmail.com",
+      "title": "Mentor",
+      "mobile": "9874569889",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsGkXyvKEXiuF9XZeG2RB-g4RBKrYC8ikZ0oWQKgNsQ&s",
+      "groupId": "1"
+    },
+    {
+      "name": "Rohit pal",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhBdMYS8e1YxNDJbvT7_biPX4mJlZBN8LhMUzXkoW-g&s",
+      "mobile": "8851796198",
+      "email": "rpal92237@gmail.com",
+      "company": "Newton",
+      "title": "Student",
+      "groupId": "4",
+      "id": "BbMdWhO"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    },
+    {
+      "id": "5",
+      "name": "Outside"
+    }
+  ]
+}
